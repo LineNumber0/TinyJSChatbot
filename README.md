@@ -9,4 +9,4 @@ For a demonstration when prompt() function asks your name click CANCEL or OK.
 for educational purpose and fun !
 Thanks ! and happy coding !
 
-link : https://linenumberzero.netlify.com/MtoM.html
+link : https://linenumber0.github.io/MtoM.html
